@@ -12,3 +12,7 @@ Links you might be looking for
 * View the bStats metrics [here](https://bstats.org/plugin/bukkit/LevelledMobs/6269).
 
 If you're enjoying this resource, I would appreciate a 5-star review [here](https://www.spigotmc.org/resources/%E2%99%A6-levelledmobs-%E2%99%A6-for-1-15-x-1-16-x.74304/reviews). Lets me and other server owners in the community know that you enjoy the resource. :)
+
+# NOTE #
+This fork is only to fix the bug related to worldguard zone.
+I have added the jar in case you want'it.
